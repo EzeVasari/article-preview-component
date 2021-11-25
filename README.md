@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/article-preview-component-with-flexbox-7seVR4JMc)
+- Live Site URL: [Live](https://ezevasari.github.io/article-preview-component/)
 
 ## My process
 
