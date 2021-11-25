@@ -121,6 +121,7 @@ main {
 .text-name {
     font-weight: 700;
     margin-bottom: 0;
+    color: var(--dark-grayish-blue);
 }
 
 .text-date {
